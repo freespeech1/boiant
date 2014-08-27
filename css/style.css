@@ -202,6 +202,9 @@ Intro
 #intro .brand {
 	margin-top: 40px;
 }
+.brand p span {
+  font-weight: bold;
+}
 .intro-text h1 a {
 	color:#fff;
 	text-align:center;
@@ -546,7 +549,6 @@ more media queries
 
 @media (max-width:768px) {
 	#intro{
-		background-image: url(../img/bg-mac.png);
 		background-size:100%;
 	}
 	.box-team, .box-team img {
