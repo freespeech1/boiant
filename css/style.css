@@ -578,6 +578,10 @@ more media queries
 	}
 }
 
+section#contact .container .row .fb-like {
+  margin-bottom: 50px;
+}
+
 // Share Buttons
 
 .share-buttons{
